@@ -18,7 +18,7 @@
         'USER': 'usuario_do_bd',
         'PASSWORD': 'senha_do_bd'
     }
-}
+}´´´
 
 ### Migrar banco de dados
 'python manage.py migrate'
